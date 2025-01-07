@@ -1,0 +1,5 @@
+
+.DS_Store
+/valera-backups
+*.lck
+fp-info-cache
