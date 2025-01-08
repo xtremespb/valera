@@ -132,7 +132,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_track_width": 0.175,
         "min_via_annular_width": 0.05,
         "min_via_diameter": 0.4,
         "solder_mask_clearance": 0.0,
@@ -485,7 +485,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.175,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -667,6 +667,10 @@
     [
       "cae06f70-e182-48d9-b311-24145177512d",
       "Pico2"
+    ],
+    [
+      "842c6501-a0b2-414f-9382-72209e28016c",
+      "Power"
     ]
   ],
   "text_variables": {}

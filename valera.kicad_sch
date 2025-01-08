@@ -739,6 +739,14 @@
 		(uuid "045088d9-28ec-4faa-93cb-44314ace0521")
 	)
 	(no_connect
+		(at 54.61 162.56)
+		(uuid "43801362-7d8f-4731-8b13-e6e339f44c8e")
+	)
+	(no_connect
+		(at 54.61 160.02)
+		(uuid "606142aa-c193-4331-b19e-947a77c3085f")
+	)
+	(no_connect
 		(at 105.41 46.99)
 		(uuid "73363059-24c6-45f2-9241-b9691702d86f")
 	)
@@ -3061,6 +3069,65 @@
 			(project "valera"
 				(path "/621f55f1-01af-437d-a2cb-120cc66267c2"
 					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 54.61 157.48)
+		(size 13.97 7.62)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "842c6501-a0b2-414f-9382-72209e28016c")
+		(property "Sheetname" "Power"
+			(at 54.61 156.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 54.61 165.6846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "D-" input
+			(at 54.61 160.02 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "375fd585-74ce-49eb-9a2e-4cb2533ef30d")
+		)
+		(pin "D+" input
+			(at 54.61 162.56 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "aaf94dbf-ac89-4475-a35e-5a5f3bc09cba")
+		)
+		(instances
+			(project "valera"
+				(path "/621f55f1-01af-437d-a2cb-120cc66267c2"
+					(page "10")
 				)
 			)
 		)
