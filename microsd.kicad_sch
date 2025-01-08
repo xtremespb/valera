@@ -912,46 +912,6 @@
 		)
 		(uuid "f3290af9-a995-455c-9a05-0dc6e96ba5c5")
 	)
-	(text "GP_6"
-		(exclude_from_sim no)
-		(at 68.58 60.198 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "1ad361c4-008d-4b03-82a8-11baa6c473d8")
-	)
-	(text "GP_5"
-		(exclude_from_sim no)
-		(at 68.58 52.578 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "3910e7c9-6817-4954-9101-51d9950976ba")
-	)
-	(text "GP_7"
-		(exclude_from_sim no)
-		(at 68.58 55.118 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "48584973-98af-4444-8be7-72afd778e4bf")
-	)
-	(text "GP_4"
-		(exclude_from_sim no)
-		(at 68.58 65.278 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "e49eb4ee-0086-4601-b36f-61ae549b04af")
-	)
 	(hierarchical_label "SD_CS"
 		(shape input)
 		(at 41.91 57.15 180)

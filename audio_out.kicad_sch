@@ -3113,46 +3113,6 @@
 		)
 		(uuid "fe6329a3-e2df-418b-8024-05661f476cc5")
 	)
-	(text "GP_10"
-		(exclude_from_sim no)
-		(at 239.014 58.674 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "4449f8f5-812e-4b04-9c7f-e634fe692a3b")
-	)
-	(text "GP_11"
-		(exclude_from_sim no)
-		(at 238.76 105.41 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "c2cc8b9d-2ecf-45e6-b2f5-d39e1bb87cc2")
-	)
-	(text "GP_9"
-		(exclude_from_sim no)
-		(at 238.76 113.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "e0aa14b2-b2eb-4d7f-9278-f8242977f522")
-	)
-	(text "GP_9"
-		(exclude_from_sim no)
-		(at 238.76 66.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "fc3f00af-815a-4e3e-b64f-38bb9d2e04d5")
-	)
 	(label "L"
 		(at 273.4668 72.39 0)
 		(fields_autoplaced yes)

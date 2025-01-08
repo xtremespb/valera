@@ -1635,26 +1635,6 @@
 		)
 		(uuid "f7c39530-3c32-41e9-ad8b-7224040e037d")
 	)
-	(text "KB_DATA_3V"
-		(exclude_from_sim no)
-		(at 131.064 72.39 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2e456b62-0250-4a11-a7cd-c762188bb405")
-	)
-	(text "KB_CLK_3V"
-		(exclude_from_sim no)
-		(at 131.572 67.564 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "497d6249-71c2-42ab-89d3-2af45135cb15")
-	)
 	(label "PS{slash}2 DATA"
 		(at 95.25 73.66 0)
 		(fields_autoplaced yes)
